@@ -1,0 +1,71 @@
+About the job
+
+Please apply only if you are already based in Switzerland and hold a valid work permit.
+
+Martin Data Solutions is an Al/ML company focused on applied machine learning, large language models (LLMs), and custom Al solutions. We collaborate with startups and enterprises to unlock the full potential of data-driven technologies.
+
+Join Martin Data Solutions as a Machine Learning / Al Engineer and gain hands-on experience working directly with founder Benito Martin on cutting-edge Al projects to become an early-stage team leader.
+
+Role Summary
+
+In this role, you'll contribute to the development, evaluation, and deployment of LLM-powered applications. This opportunity is ideal for recent graduates (Bachelor's or Master's) or junior engineers eager to deepen their practical experience in machine learning and generative Al.
+
+Responsibilities
+
+Design and implement LLM pipelines, embeddings, and RAG (Retrieval-Augmented Generation) systems
+
+Work on prompt engineering and model alignment for specific business tasks
+
+Analyze model performance and experiment with optimization techniques
+
+Collaborate on rapid prototyping and documentation
+
+Participate in code reviews and collaborate with other engineers and stakeholders
+
+Required Qualifications
+
+Bachelor's or Master's degree in Computer Science, Machine Learning, Al, or a related field (or equivalent practical experience)
+
+1-2 years of professional experience (Passion, curiosity, and initiative matter more than years of 
+Required Qualifications
+
+Bachelor's or Master's degree in Computer Science, Machine Learning, Al, or a related field (or equivalent practical experience)
+
+1-2 years of professional experience (Passion, curiosity, and initiative matter more than years of experience)
+
+Solid Python skills, with experience in ML frameworks such as NumPy, Pandas, Scikit-learn, PyTorch, and TensorFlow
+
+Exposure to LLM libraries and ecosystems (e.g., Hugging Face Transformers, LangChain, LlamaIndex, OpenAI APIs)
+
+Strong understanding of NLP concepts (e.g., tokenization, attention mechanisms, embeddings)
+
+Familiarity with Git and REST APIS
+
+Strong communication skills in English and a desire to learn in a fast-paced, hands-on environment
+
+Nice to have
+
+Familiarity with RAG workflows and vector-based retrieval systems
+
+Exposure to MLOps tools and platforms (MLflow, AWS/GCP, Docker)
+
+Experience integrating ML models into interactive tools or dashboards (e.g., Gradio, Streamlit)
+
+What We Offer
+
+Fully remote within Switzerland, and a flexible work environment
+
+Exposure to cutting-edge tools, methodologies, and diverse client projects
+
+Competitive compensation with performance-based growth opportunities
+Competitive compensation with performance-based growth opportunities
+
+show less
+
+Requirements added by the job poster
+
+Professional in English
+
+No need for visa sponsorship
+
+Working in a remote setting

@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: resume-screening-api
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port 8000
+    autoDeploy: true
+
+  - type: web
+    name: resume-screening-ui
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run ui/app.py --server.port 10000
+    envVars:
+      - key: STREAMLIT_SERVER_PORT
+        value: 10000
