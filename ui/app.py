@@ -29,7 +29,7 @@ if st.button("🔍 Rank Resumes"):
             # Call backend API
             try:
                 response = requests.post(
-                    "http://localhost:8000/rank/",
+                    "https://resume-screening-assistant.onrender.com/rank/",
                     data=data,
                     files=files
                 )
